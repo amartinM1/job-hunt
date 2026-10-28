@@ -1,0 +1,34 @@
+{"company":"ElevenLabs","title":"Forward Deployed Engineer","url":"https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6",
+"fit_score":7,
+"fit_rationale":"Backend architecture and API integration work from Citi match the core of the role; the gaps are Python depth and experience facing customer executives.",
+"sections":[
+{"name":"Requirements","keywords":[
+{"term":"Proficiency in Python","status":"partial","note":"The only language the posting names. Your background is Java-first, so confirm how much Python you use at Snorkel."},
+{"term":"software architecture","status":"have","note":"Spring Boot services for Branded Cards & Digital Pay"},
+{"term":"APIs integration","status":"have","note":"Money movement / digital pay backend at Citi"},
+{"term":"software development knowledge","status":"have","note":"3+ yrs production backend + full-stack"},
+{"term":"Experience working with customers","status":"partial","note":"The posting accepts side projects. Your DIFF festival app counts: you built it for a real client."},
+{"term":"Excellent communication","status":"have","note":"Show it with evidence: PreSales Collective, eval write-ups"},
+{"term":"problem-solving skills","status":"have","note":"Production systems in a regulated environment"},
+{"term":"summarize complex technical knowledge","status":"partial","note":"Eval findings at Snorkel; get a concrete example ready"}]},
+{"name":"What you will do","keywords":[
+{"term":"end-to-end execution","status":"have","note":"Owning features from design through production at Citi"},
+{"term":"major projects","status":"have","note":"Card / digital pay platform work"},
+{"term":"strategic partners","status":"partial","note":"Card partners and digital wallet providers, but likely through internal teams rather than directly"},
+{"term":"customer's engineers","status":"partial","note":"Cross-team engineering at Citi; no external customer embeds yet"},
+{"term":"executives teams","status":"gap","note":"Facing customer execs is new. Practice demos and talking scope and tradeoffs with execs."},
+{"term":"complex problems","status":"have","note":"High-volume payments systems"}]},
+{"name":"About the role","keywords":[
+{"term":"technical architectures","status":"have","note":"Citi backend design"},
+{"term":"full-scale integrations","status":"have","note":"Digital pay integrations"},
+{"term":"product features","status":"have","note":"Shipped features to production"},
+{"term":"tailored solutions","status":"partial","note":"DIFF app was built to one client's needs"},
+{"term":"strategic customers","status":"gap","note":"No direct embedded customer work yet"}]},
+{"name":"Product context (implied)","keywords":[
+{"term":"ElevenAgents","status":"gap","note":"Their voice agent platform. Build a small agent before the interview."},
+{"term":"ElevenAPI","status":"gap","note":"TTS / speech APIs customers integrate with. Call them from Python."},
+{"term":"voice AI","status":"gap","note":"Latency, streaming audio, telephony integrations"},
+{"term":"AI model evaluation","status":"have","note":"Snorkel AI. A real differentiator for judging agent quality."}]},
+{"name":"Logistics","keywords":[
+{"term":"customer onsites (travel)","status":"partial","note":"Regular travel is expected, so confirm it works for you"},
+{"term":"Remote (US)","status":"have","note":"Prefers NY/SF but anywhere in the US is fine"}]}]}
