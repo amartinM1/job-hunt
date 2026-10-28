@@ -1,0 +1,56 @@
+{
+  "company": "Google",
+  "title": "Software Engineer III, Platforms and Devices – Play (multiple openings)",
+  "url": "https://www.google.com/about/careers/applications/jobs/results/76978659709067974",
+  "fit_score": 8,
+  "fit_rationale": "Java backend, API design, production support and SDLC line up with every minimum qualification; the one gate to prove is the 100K+ QPS / 100M+ users scale line, and Play's Kotlin/Android stack is new.",
+  "sections": [
+    {"name": "Minimum qualifications", "keywords": [
+      {"term": "Computer Engineering", "status": "have", "note": "B.S., University of Florida"},
+      {"term": "Java", "status": "have", "note": "3+ yrs production Java/Spring Boot at Citi; satisfies the 2-yr language line"},
+      {"term": "Kotlin", "status": "gap", "note": "Not required (Java covers it), but it's Play's Android client language"},
+      {"term": "Python", "status": "partial", "note": "Confirm how much you use it at Snorkel"},
+      {"term": "C++", "status": "gap", "note": "Optional; Java satisfies the requirement"},
+      {"term": "data structures and algorithms", "status": "have", "note": "Have it on the job; the Google loop tests it hard, so prep is the real work"},
+      {"term": "Systems design", "status": "have", "note": "Citi payments services; expect a system design round"},
+      {"term": "Production hygiene and support processes", "status": "have", "note": "Production backend support at Citi"},
+      {"term": "Full software development lifecycle", "status": "have", "note": "Design through release at Citi"},
+      {"term": "API design and development", "status": "have", "note": "Money movement / digital pay APIs"},
+      {"term": "Backend development", "status": "have", "note": "Core of the Citi role"},
+      {"term": "distributed systems", "status": "have", "note": "Spring Boot services in a large bank platform"},
+      {"term": "Artificial Intelligence or Machine learning", "status": "partial", "note": "Model evaluation at Snorkel AI; evaluating, not training"},
+      {"term": "mobile app development", "status": "partial", "note": "DIFF iOS app (SwiftUI + web views), side project"},
+      {"term": "Frontend development", "status": "partial", "note": "Full-stack work"},
+      {"term": "complex distributed software environment", "status": "have", "note": "Citi Branded Cards & Digital Pay"},
+      {"term": "100K+ Queries Per Second", "status": "partial", "note": "Gating line: confirm Citi's peak QPS for your services"},
+      {"term": "serving 100M+ users", "status": "partial", "note": "Alternative to QPS: confirm cardholder / user count your services reach"}
+    ]},
+    {"name": "Responsibilities", "keywords": [
+      {"term": "end-to-end tasks", "status": "have", "note": "Citi feature ownership"},
+      {"term": "product or system development code", "status": "have", "note": "Write and deploy production code daily"},
+      {"term": "design reviews", "status": "have", "note": "Citi engineering process"},
+      {"term": "code developed by other developers", "status": "have", "note": "Code review at Citi"},
+      {"term": "Triage product or system issues", "status": "have", "note": "Production support"},
+      {"term": "ambiguous problems", "status": "have", "note": "Eval design at Snorkel is ambiguous by nature"},
+      {"term": "Reliability monitoring and alerting", "status": "partial", "note": "Name the monitoring/alerting tools you actually use"},
+      {"term": "Security and privacy practices", "status": "have", "note": "Regulated financial data"},
+      {"term": "sensitive data", "status": "have", "note": "Cardholder and payment data"},
+      {"term": "Integration testing", "status": "partial", "note": "Have a concrete example ready"},
+      {"term": "high quality and reliability", "status": "have", "note": "Payments can't fail silently"},
+      {"term": "user-focused, user first approach", "status": "partial", "note": "Cardholder-facing features; DIFF app users"}
+    ]},
+    {"name": "About the job", "keywords": [
+      {"term": "large-scale system design", "status": "partial", "note": "Bank scale, not Google scale; study Google-style designs"},
+      {"term": "distributed computing", "status": "have", "note": "Distributed backend services"},
+      {"term": "networking and data storage", "status": "partial", "note": "Used, not specialized"},
+      {"term": "natural language processing", "status": "partial", "note": "Evaluating LLM outputs at Snorkel"},
+      {"term": "information retrieval", "status": "gap", "note": "Play search and recommendations; matters only if placed there"},
+      {"term": "UI design", "status": "partial", "note": "DIFF app"}
+    ]},
+    {"name": "Product context", "keywords": [
+      {"term": "Google Play", "status": "gap", "note": "Learn the surfaces: store, Play Console, Play Billing, Play Protect, Play Games"},
+      {"term": "Android", "status": "gap", "note": "Play clients and SDKs are Android-first"},
+      {"term": "Play Billing / payments", "status": "partial", "note": "Your Citi digital pay domain maps directly if you're placed on a Play commerce team"}
+    ]}
+  ]
+}

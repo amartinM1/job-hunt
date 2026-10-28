@@ -16,3 +16,4 @@ Regenerate a map: `python scripts/keyword_map.py src/job_opps/<folder>/keyword_m
 | Saved | Company | Role | Fit | Status | Folder |
 |---|---|---|---|---|---|
 | 2026-10-25 | ElevenLabs | Forward Deployed Engineer | 7/10 | Prepping | [elevenlabsfde](src/job_opps/elevenlabsfde) |
+| 2026-10-28 | Google | Software Engineer III, Platforms and Devices – Play | 8/10 | To apply | [googleswe3play](src/job_opps/googleswe3play) |
